@@ -20,10 +20,10 @@
  * 
  *   vol
  *    +1  dsp(t=0.1)
- *     |     /\      /\
- *    0|____/__\___ /__\__ t
- *     |\  /    \  /
- *     | \/      \/
+ *     | /\      
+ *    0|/__\_____ t
+ *     |    \  /
+ *     |     \/
  *    -1      dsp(t=0.2)
  * 
  * Below is the most basic example producing
